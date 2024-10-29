@@ -1,0 +1,7 @@
+Đề bài
+    Repository là gì? Các bước khởi tạo repository trong Git.
+
+
+Repository là một kho lưu trữ.
+
+Bước 1:
