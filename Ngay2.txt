@@ -5,3 +5,4 @@
 Repository là một kho lưu trữ.
 
 Bước 1:
+Bước 2:
