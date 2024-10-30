@@ -1,0 +1,7 @@
+1:  nano + (tên file):thay đổi thông tin tròng tệp.
+
+2:  git add + (tên file)
+    git commit -m + (tên file):Lưu lại các thông tin khi làm việc trên git.
+    git push origin main
+
+3:  git status: Kiểm tra xem có sự thay đổi hay không.
