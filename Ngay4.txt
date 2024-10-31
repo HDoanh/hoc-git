@@ -1,0 +1,8 @@
+Lịch sử commit:
+
+
+    I: git log:Hiển thị thông tin
+        1.Mã hash của commit
+        2.Tác giả
+        3.Ngày giờ commit
+        4.Thông điệp commit
