@@ -1,0 +1,23 @@
+1.Tạo nhánh
+git branch + tên nhánh
+
+2.Chuyển sang nhánh mới
+git checkout + tên nhánh
+
+3.Tạo và chuyển nhánh 
+git checkout -b + tên nhánh
+
+4.Liệt kê tất cả các nhánh
+git branch
+
+5.Xóa 1 nhánh
+git branch -d + tên nhánh
+
+6.Gộp nhánh 
+git checkout main + git merge + tên nhánh
+
+7.Đưa nhánh lên remote
+git push origin + tên nhánh
+
+8.Cập nhật nhánh
+git merge main
